@@ -3,7 +3,7 @@ local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/r
 local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/rignz-hub/ui/master/fluent/Addons/InterfaceManager.luau"))()
  
 local Window = Library:CreateWindow{
-    Title = `Fluent {Library.Version}`,
+    Title = `GGHub`,
     SubTitle = "skided by @Rignz",
     TabWidth = 160,
     Size = UDim2.fromOffset(830, 525),
